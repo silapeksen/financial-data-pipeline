@@ -1,0 +1,12 @@
+# Database files
+*.db
+
+# Python system files
+__pycache__/
+*.pyc
+
+# VS Code settings
+.vscode/
+
+# Library list backup (Optional, sometimes for venv folder)
+venv/
